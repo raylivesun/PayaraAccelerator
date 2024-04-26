@@ -106,7 +106,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
                     <p>Our customers include US Coast
                         Guard, Rakuten Card, Hermes, DPD,
                         Fujitsu UK and BMW Group.</p>
-                    <p>Try Payara Enterprise for free <a href="http://localhost/SpeedLives/brochure.html">here.</a></p>
+                    <p>Try Payara Enterprise for free <a href="https://www.payara.fish/page/payara-enterprise-downloads/">here.</a></p>
                 </td>
             </tr>
         </tbody></table>
