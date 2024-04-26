@@ -1,3 +1,5 @@
+# Speed Lives
+        
 <!DOCTYPE html>
 <!--
 Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -5,7 +7,6 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
 -->
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <title>Speed Lives</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
@@ -137,15 +138,14 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
         <table border="0" width="100%" height="100%">
             <tbody><tr>
                 <td width="30%">
-                    <a href="mailto:sales@payara.fish"><img src="README_files/email.png"><!-- email --></a>
+                    <a href="mailto:sales@payara.fish"><img src="README_files/email.png"></a>
                 </td>
                 <td width="30%">
-                    <a href="https://www.payara.fish/about/contact-us/"><img src="README_files/phones.png"><!--<!-- phones ---->
+                    <a href="https://www.payara.fish/about/contact-us/"><img src="README_files/phones.png">
                     </a>
-                </td>    
-
-                <td width="30%">
-                    <a href="https://www.payara.fish/"><img src="README_files/website.png"><!--website  --></a>
+                </td>
+                    <td width="30%">
+                    <a href="https://www.payara.fish/"><img src="README_files/website.png"></a>
                 </td>                    
             </tr>
         </tbody></table>
